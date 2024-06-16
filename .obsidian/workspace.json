@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "6f0a7e0a3bff2140",
+    "type": "split",
+    "children": [
+      {
+        "id": "70c4c369760f2e17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "465e18b9a36a82db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D - Templates/(Template) - Resource.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f775130a97a2269e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D - Templates/(Template) - Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8f6b4ccf8777961",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D - Templates/(Template) - Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aee46a881629af92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 - Projects.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b790e99d6acff74",
+    "type": "split",
+    "children": [
+      {
+        "id": "90613d742945c2cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9ca60a8163a1ee6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83d1bc4cfa26e3be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"areas\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "342df61e85a66753",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d13798b7b4021a20",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bdd357ea3e02cd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "732db0dcd984f461",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "001 - Projects.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5905310de89a242d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "001 - Projects.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec53621737a7bdad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b4a922e5a90288c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "001 - Projects.md"
+              }
+            }
+          },
+          {
+            "id": "8be19b63aec402a4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "0ac56efc052d2bd2",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "001 - Projects.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 569,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "aee46a881629af92",
+  "lastOpenFiles": [
+    "002 - Areas.md",
+    "003 - Resources.md",
+    "004 - Archives.md",
+    "001 - Projects.md",
+    "D - Templates/(Template) - Resource.md",
+    "D - Templates/(Template) - Project.md",
+    "D - Templates/(Template) - Note.md",
+    "D - Templates/(Template) - Meeting.md",
+    "D - Templates/(Template) - Daily Note.md",
+    "D - Templates/(Template) - Area.md",
+    "B - Notes/[Area] - First area.md",
+    "A - Inbox/2024-06-16.md",
+    "A - Inbox/2024-06-15.md",
+    "B - Notes/dsfdsfdsfdsfdsdsf.md",
+    "B - Notes/2024-06-16 2237 - Meeting.md",
+    "B - Notes/2024-06-16 2236 - Meeting.md",
+    "B - Notes/wfrpwfrqstrsa.md",
+    "B - Notes/[Project] - rst rsatsra.md",
+    "B - Notes/lkjl.md",
+    "B - Notes/[Project] - first active project.md",
+    "B - Notes/rstxtdsrsrrsa.md",
+    "B - Notes/[Project] - zzzzzz.md",
+    "B - Notes/rstsrtsr trsrstsrtr strs atstarst.md",
+    "B - Notes/Some new project note.md",
+    "B - Notes/[Project] - rstarsvsa .md",
+    "B - Notes/[Project] - Fourth test.md",
+    "B - Notes",
+    "E - Scripts",
+    "D - Templates",
+    "C - Media",
+    "B - Notes",
+    "A - Inbox"
+  ]
+}
