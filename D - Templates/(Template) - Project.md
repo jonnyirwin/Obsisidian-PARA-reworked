@@ -13,7 +13,7 @@ Areas: `INPUT[inlineListSuggester(optionQuery("B - Notes"),useLinks(partial)):ar
 > <% tp.file.cursor(1) %>
 
 ## Next Steps
-- [ ]  <% tp.file.cursor(2) %>
+- [ ]  
 
 ## Meetings
 ```meta-bind-button
@@ -29,7 +29,12 @@ actions:
     command: quickadd:choice:7f73480e-75a9-40c7-93a8-4ff9f249cbfe
 
 ```
-
+```dataview
+LIST
+FROM "B - Notes"
+WHERE project = "<% tp.file.title %>"
+SORT file.ctime ASC
+```
 
 ## Notes
 ```meta-bind-button

@@ -5,6 +5,6 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "C - Media",
   "showInlineTitle": false,
-  "propertiesInDocument": "hidden",
+  "propertiesInDocument": "source",
   "alwaysUpdateLinks": true
 }

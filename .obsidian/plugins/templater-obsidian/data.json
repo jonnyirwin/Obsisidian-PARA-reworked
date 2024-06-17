@@ -12,11 +12,11 @@
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "E - Scripts",
-  "enable_folder_templates": false,
+  "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "B - Notes",
+      "template": "D - Templates/(Template) - Note.md"
     }
   ],
   "syntax_highlighting": true,
